@@ -1,0 +1,7 @@
+http://3143.live.streamtheworld.com:80/CBC_R2_HFX_H_SC,CBC_HALIFAX_R2
+http://2073.live.streamtheworld.com/CBC_R2_TOR_H,CBC_MUSIC
+http://listen.radiohyrule.com:8000/listen,HYRULE_RADIO
+http://allstream.rainwave.cc:8000/omniwave.mp3?1388431588515.mp3,RAINWAVE-ALL
+http://ocrstream.rainwave.cc:8000/ocremix.mp3?1388279542704.mp3,RAINWAVE-OCRemix
+http://radio.nolife-radio.com:8000,NOLIFE-RADIO
+http://itori.animenfo.com:443/,AnimeNfo_Radio
